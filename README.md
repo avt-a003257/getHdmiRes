@@ -1,0 +1,2 @@
+# getHdmiRes
+Get HDMI information
